@@ -2,7 +2,7 @@
 Tema : Processo de acesso a prova para todos os estudantes
 
 Contexto : 
-   Havendo a necessidade de controlar os alunos que estão com as suas matricular legalizadas  em determinada cadeira e sem dividas para terem acesso as provas, a intenção é criar um sistema que através do face id do aluno verificar se ele esta apto para fazer uma determinada prova 
+   Havendo a necessidade de controlar os alunos que estão com as suas matricular legalizadas para terem acesso as provas, a intenção é criar um sistema que através do face id do aluno verificar se ele esta apto para fazer uma determinada prova 
 
 ### 🎯 Objetivo Geral
 
